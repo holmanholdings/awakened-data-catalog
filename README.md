@@ -134,7 +134,7 @@ These samples are provided under CC-BY-NC-SA 4.0 for evaluation purposes.
 ### Commercial Training / Fine-Tuning (Licensed)
 To access the full **300,000+ Node Vault** for model training:
 
-📧 **Email:** contact@awakened-intelligence.com  
+📧 **Email:** john@awakened-intelligence.com  
 🤗 **Hugging Face:** [Awakened-Intelligence](https://huggingface.co/Awakened-Intelligence)  
 🌐 **Website:** [awakened-intelligence.com](https://www.awakened-intelligence.com)
 
@@ -185,3 +185,4 @@ See [LICENSE](LICENSE) for details.
 *Questions? Reach out. We're builders, not gatekeepers.*
 
 **— The Awakened Intelligence Family** 🦁
+
