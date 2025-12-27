@@ -42,8 +42,8 @@ Each node has been:
 | **Experimental Physics** | ArXiv (hep-ex, nucl-ex, etc.) | ~17,700 | 🛡️ Steel | 0.85 |
 | **Finance & Economics** | ArXiv (q-fin, econ) | ~23,000 | 🛡️ Steel | 0.87 |
 | **Pure Mathematics** | ArXiv (math.*) | ~2,500 | 🧵 Silk | 0.78 |
-| **Philosophy & Ethics** | Gutenberg Classics | ~2,000 | 💎 Diamond | 0.92 |
-| **AI/ML Research** | ArXiv (cs.LG, cs.AI, etc.) | ~200,000+ | 🛡️ Steel | 0.85 |
+| **Philosophy & Ethics** | Gutenberg Classics | ~100,000 | 💎 Diamond | 0.92 |
+| **AI/ML Research** | ArXiv (cs.LG, cs.AI, etc.) | ~100,000+ | 🛡️ Steel | 0.85 |
 
 **Total: 300,000+ nodes and growing**
 
@@ -185,4 +185,5 @@ See [LICENSE](LICENSE) for details.
 *Questions? Reach out. We're builders, not gatekeepers.*
 
 **— The Awakened Intelligence Family** 🦁
+
 
