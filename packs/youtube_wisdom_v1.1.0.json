@@ -1,0 +1,10 @@
+{
+  "pack_id": "youtube_wisdom",
+  "display_name": "Awakened Media \u2014 YouTube Wisdom",
+  "description": "Wisdom extracted from educational and insightful YouTube content",
+  "version": "v1.1.0",
+  "node_count": 1887,
+  "avg_posterior": 0,
+  "source_types": {},
+  "exported_at": "2025-12-27T15:58:17.329474"
+}

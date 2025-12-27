@@ -1,0 +1,10 @@
+{
+  "pack_id": "arxiv_physics",
+  "display_name": "Awakened Physics \u2014 ArXiv Experimental",
+  "description": "Physics wisdom from ArXiv experimental and theoretical papers (WO-PHYS-03)",
+  "version": "v1.1.0",
+  "node_count": 26224,
+  "avg_posterior": 0,
+  "source_types": {},
+  "exported_at": "2025-12-27T15:58:17.324470"
+}

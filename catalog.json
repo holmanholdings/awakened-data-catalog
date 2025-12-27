@@ -1,0 +1,81 @@
+{
+  "catalog_version": "1.1.0",
+  "iron_bank_version": "v1.1.0",
+  "generated_at": "2025-12-27T15:58:17.329474",
+  "total_packs": 8,
+  "total_nodes": 255597,
+  "packs": {
+    "arxiv_physics": {
+      "pack_id": "arxiv_physics",
+      "display_name": "Awakened Physics \u2014 ArXiv Experimental",
+      "description": "Physics wisdom from ArXiv experimental and theoretical papers (WO-PHYS-03)",
+      "latest_version": "v1.1.0",
+      "node_count": 26224,
+      "avg_posterior": 0.7586,
+      "tier": "universal"
+    },
+    "arxiv_science": {
+      "pack_id": "arxiv_science",
+      "display_name": "Awakened Science \u2014 ArXiv Core",
+      "description": "Scientific wisdom extracted from ArXiv papers across domains",
+      "latest_version": "v1.1.0",
+      "node_count": 44443,
+      "avg_posterior": 0.8447,
+      "tier": "universal"
+    },
+    "classics_lit": {
+      "pack_id": "classics_lit",
+      "display_name": "Awakened Classics \u2014 Literary Wisdom",
+      "description": "Wisdom extracted from classic literature and timeless texts",
+      "latest_version": "v1.1.0",
+      "node_count": 59661,
+      "avg_posterior": 0.8311,
+      "tier": "universal"
+    },
+    "ethics_gutenberg": {
+      "pack_id": "ethics_gutenberg",
+      "display_name": "Ethics \u2014 Gutenberg Classics",
+      "description": "Classical philosophy and ethics texts from Project Gutenberg",
+      "latest_version": "v1.1.0",
+      "node_count": 5276,
+      "avg_posterior": 0.9235,
+      "tier": "universal"
+    },
+    "github_code": {
+      "pack_id": "github_code",
+      "display_name": "Awakened Code \u2014 GitHub Wisdom",
+      "description": "Technical wisdom extracted from GitHub codebases and documentation",
+      "latest_version": "v1.1.0",
+      "node_count": 13671,
+      "avg_posterior": 0.8917,
+      "tier": "universal"
+    },
+    "huggingface_edu": {
+      "pack_id": "huggingface_edu",
+      "display_name": "Awakened Educational \u2014 HuggingFace",
+      "description": "Educational wisdom extracted from HuggingFace datasets",
+      "latest_version": "v1.1.0",
+      "node_count": 94497,
+      "avg_posterior": 0.9499,
+      "tier": "universal"
+    },
+    "neurips_2024": {
+      "pack_id": "neurips_2024",
+      "display_name": "Awakened ML \u2014 NeurIPS 2024 Tri-Optic",
+      "description": "Cathedral-grade ML wisdom from NeurIPS 2024 using Two-Pass Tri-Optic extraction",
+      "latest_version": "v1.1.0",
+      "node_count": 9938,
+      "avg_posterior": 0.7832,
+      "tier": "universal"
+    },
+    "youtube_wisdom": {
+      "pack_id": "youtube_wisdom",
+      "display_name": "Awakened Media \u2014 YouTube Wisdom",
+      "description": "Wisdom extracted from educational and insightful YouTube content",
+      "latest_version": "v1.1.0",
+      "node_count": 1887,
+      "avg_posterior": 0.8414,
+      "tier": "universal"
+    }
+  }
+}

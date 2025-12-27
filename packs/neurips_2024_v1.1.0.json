@@ -1,0 +1,10 @@
+{
+  "pack_id": "neurips_2024",
+  "display_name": "Awakened ML \u2014 NeurIPS 2024 Tri-Optic",
+  "description": "Cathedral-grade ML wisdom from NeurIPS 2024 using Two-Pass Tri-Optic extraction",
+  "version": "v1.1.0",
+  "node_count": 9938,
+  "avg_posterior": 0,
+  "source_types": {},
+  "exported_at": "2025-12-27T15:58:17.328474"
+}
