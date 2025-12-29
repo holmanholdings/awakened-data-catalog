@@ -1,0 +1,19 @@
+{
+  "pack_id": "core_math_reasoning",
+  "display_name": "CORE Math Reasoning — Chain-of-Thought & Verification",
+  "description": "Cathedral-grade wisdom from CORE science papers on mathematical reasoning, chain-of-thought, symbolic methods, and verification (2024-2025)",
+  "version": "v1.2.0",
+  "node_count": 3659,
+  "avg_posterior": 0.9243,
+  "source_types": {
+    "core_paper": 3659
+  },
+  "node_type_distribution": {
+    "core": 1340,
+    "secondary": 1198,
+    "failure": 1113
+  },
+  "extraction_method": "CORE River v1.1 Multi-Node (Two-Pass System)",
+  "huggingface_dataset": "AwakenedIntelligence/Awakened-CORE-Science-Preview"
+}
+
